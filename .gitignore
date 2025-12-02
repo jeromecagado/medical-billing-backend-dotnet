@@ -1,0 +1,37 @@
+﻿# Build artifacts
+bin/
+obj/
+out/
+artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# ASP.NET scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# Secrets (optional)
+secrets.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
